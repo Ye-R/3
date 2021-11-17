@@ -1,0 +1,92 @@
+Y factor 1,Y factor 2,PearsonCoeff
+center deflection min(mm),center deflection mean(mm),0.9931058959709412
+center deflection max(mm),center deflection mean(mm),0.980831005507351
+center deflection max(mm),center deflection min(mm),0.9540381076822544
+min deg R,mean deg R,0.952563072379165
+max deg R,mean deg R,0.9444357965665714
+min deg L,mean deg L,0.8760188201358495
+max deg R,min deg R,0.8133509804704013
+t_max (mm),(t_max - t_min) percentage for Thickness,0.7869801307120813
+min deg L,min deg R,0.7574743887282006
+center deflection min(mm),min deg L,0.7471014555523364
+center deflection mean(mm),min deg L,0.7338772504959759
+mean deg L,min deg R,0.7021477300288728
+center deflection max(mm),min deg L,0.6964768592078036
+center deflection max(mm),mean deg L,0.6898306205457071
+center deflection mean(mm),mean deg L,0.6847516506962124
+center deflection min(mm),mean deg L,0.6741320060343459
+mean deg L,mean deg R,0.6505164555798402
+t_max (mm),min deg L,-0.6466330998377329
+min deg L,mean deg R,0.6423449970959969
+center deflection mean(mm),min deg R,0.6122914272179878
+center deflection min(mm),min deg R,0.6120980605171404
+t_min percentage for Thickness,(t_max - t_min) percentage for Thickness,0.6091985599732109
+center deflection max(mm),min deg R,0.6038459886275896
+center deflection max(mm),mean deg R,0.5768334895497549
+t_max percentage for Thickness,(t_max - t_min) percentage for Thickness,0.5704762112269331
+center deflection mean(mm),mean deg R,0.559267098072561
+center deflection min(mm),mean deg R,0.5470093199370026
+mean deg L,max deg R,0.5216562332034058
+t_max (mm),center deflection min(mm),-0.5211597086528862
+t_max (mm),t_min percentage for Thickness,0.5002311823530681
+t_max (mm),min deg R,-0.4788533703927449
+t_max (mm),center deflection mean(mm),-0.4772843720150343
+center deflection max(mm),max deg R,0.4607163349345371
+min deg L,max deg R,0.4439426133468219
+t_max (mm),t_min (mm),0.4393042246466969
+t_max (mm),t_max percentage for Thickness,0.4289544561846991
+t_min (mm),center deflection mean(mm),-0.42483981726031933
+center deflection mean(mm),max deg R,0.4155018903488751
+(t_max - t_min) percentage for Thickness,min deg L,-0.4127698388560325
+t_min (mm),center deflection max(mm),-0.41268372574657736
+t_min (mm),center deflection min(mm),-0.4120882051343718
+t_max (mm),mean deg L,-0.4104575592753629
+t_max (mm),center deflection max(mm),-0.4005942143797106
+center deflection min(mm),max deg R,0.3898738033892323
+t_min (mm),t_max percentage for Thickness,0.3540038141721893
+t_max (mm),mean deg R,-0.3496253552961141
+t_min percentage for Thickness,max deg L,0.3254792768708274
+t_min (mm),t_min percentage for Thickness,-0.3056601699016612
+t_min (mm),mean deg L,-0.30387763742091684
+t_max percentage for Thickness,t_min percentage for Thickness,-0.3036913863600477
+t_min percentage for Thickness,min deg L,-0.2798336872757196
+t_max (mm),max deg L,0.2796272356584115
+t_min percentage for Thickness,min deg R,-0.267737741147924
+(t_max - t_min) percentage for Thickness,center deflection min(mm),-0.24495884892858974
+(t_max - t_min) percentage for Thickness,min deg R,-0.24470583125030956
+t_min (mm),min deg L,-0.23523557009955776
+max deg L,mean deg L,0.22961176742439665
+t_min (mm),max deg L,-0.2260657521729705
+t_max percentage for Thickness,min deg L,-0.20623349708649666
+(t_max - t_min) percentage for Thickness,max deg L,0.20494446612132824
+t_max percentage for Thickness,center deflection min(mm),-0.17661839808912508
+(t_max - t_min) percentage for Thickness,center deflection mean(mm),-0.17531036989310464
+t_max (mm),max deg R,-0.1614884922128232
+t_max percentage for Thickness,center deflection mean(mm),-0.15662091664092265
+max deg L,min deg R,-0.1544963525590683
+t_min percentage for Thickness,mean deg R,-0.15389702781892886
+t_min (mm),min deg R,-0.15298881588932448
+max deg L,mean deg R,-0.15116699152834293
+max deg L,min deg L,-0.14962245213252046
+(t_max - t_min) percentage for Thickness,mean deg L,-0.14430307844472315
+t_max percentage for Thickness,mean deg L,-0.13527342540222148
+max deg L,max deg R,-0.12231735147242245
+t_min percentage for Thickness,center deflection min(mm),-0.1147991551488913
+(t_max - t_min) percentage for Thickness,mean deg R,-0.11130781363840683
+t_max percentage for Thickness,center deflection max(mm),-0.10903755624710958
+t_min (mm),mean deg R,-0.10158489221279447
+t_max percentage for Thickness,max deg L,-0.09028945007403966
+(t_max - t_min) percentage for Thickness,center deflection max(mm),-0.06876170289398842
+t_max percentage for Thickness,max deg R,0.05398147135115087
+t_min percentage for Thickness,center deflection mean(mm),-0.05312929010264903
+t_min percentage for Thickness,mean deg L,-0.036236698759830495
+t_min (mm),(t_max - t_min) percentage for Thickness,0.029239082846706663
+t_max percentage for Thickness,mean deg R,0.026826374872794857
+(t_max - t_min) percentage for Thickness,max deg R,0.02500956676700524
+t_min percentage for Thickness,center deflection max(mm),0.02475866013547499
+t_min percentage for Thickness,max deg R,-0.022541455665639358
+center deflection min(mm),max deg L,-0.02142714114429049
+t_max percentage for Thickness,min deg R,-0.014731875644413582
+center deflection mean(mm),max deg L,-0.00841639338380178
+center deflection max(mm),max deg L,0.00534310167910111
+t_min (mm),max deg R,0.0016583263540811495

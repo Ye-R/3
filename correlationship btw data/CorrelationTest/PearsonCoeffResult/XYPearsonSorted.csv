@@ -1,0 +1,99 @@
+X factor,Y factor,PearsonCoeff
+Weight(g/sqm),t_max (mm),0.9197972658689217
+Thickness(mm),t_max (mm),0.8953189355379519
+Thickness(mm),t_min percentage for Thickness,0.6751320243352521
+Weight(g/sqm),(t_max - t_min) percentage for Thickness,0.6644684411475015
+Weight(g/sqm),min deg L,-0.6634729002972868
+Thickness(mm),min deg L,-0.6194501553794587
+BendingRigidity,mean deg R,-0.5958734970980715
+BendingRigidity,min deg R,-0.580063522013401
+Thickness(mm),(t_max - t_min) percentage for Thickness,0.5770744398618184
+Weight(g/sqm),center deflection min(mm),-0.5758394564640431
+BendingRigidity,t_max (mm),0.5748620535604223
+Weight(g/sqm),min deg R,-0.565819551485403
+Weight(g/sqm),t_min percentage for Thickness,0.5433419301189668
+Weight(g/sqm),center deflection mean(mm),-0.5399123649293599
+BendingRigidity,max deg R,-0.5253990578454648
+Thickness(mm),min deg R,-0.5237487508059201
+Thickness(mm),center deflection min(mm),-0.5022826826661169
+BendingRigidity,max deg L,0.49105966567049
+BendingRigidity,min deg L,-0.4869787224340946
+Weight(g/sqm),center deflection max(mm),-0.4745885278368229
+Thickness(mm),center deflection mean(mm),-0.4650846951236533
+Weight(g/sqm),mean deg L,-0.45676924099093796
+BendingRigidity,center deflection max(mm),-0.4532592602881764
+Weight(g/sqm),mean deg R,-0.4527307519408025
+BendingRigidity,center deflection mean(mm),-0.4388492263791402
+BendingRigidity,center deflection min(mm),-0.4343916687717587
+Weight(g/sqm),t_min (mm),0.42673695736265715
+TensileStrength,center deflection max(mm),-0.4203741338507777
+TensileStrength,center deflection mean(mm),-0.41863493215338937
+Extension,t_min percentage for Thickness,0.4185647227352038
+Density,min deg R,0.41819580743752355
+Density,mean deg R,0.4175299692725252
+TensileStrength,center deflection min(mm),-0.41277935672002514
+Thickness(mm),center deflection max(mm),-0.4043631321431416
+Thickness(mm),mean deg R,-0.4014926385647709
+Extension,mean deg L,0.4011533062167291
+Thickness(mm),mean deg L,-0.39278577948668436
+Thickness(mm),max deg L,0.377805737969645
+TensileStrength,min deg L,-0.36966640632981473
+TensileStrength,mean deg L,-0.35755449867903905
+Extension,(t_max - t_min) percentage for Thickness,0.35727240907679136
+TensileStrength,min deg R,-0.35723850184326494
+TensileStrength,mean deg R,-0.35473464676583266
+Extension,max deg R,0.3519467371709436
+Density,t_max percentage for Thickness,0.35126749625196796
+BendingRigidity,mean deg L,-0.35028771610864395
+Density,max deg R,0.3457689974584779
+Extension,mean deg R,0.3319457516443272
+BendingRigidity,t_min (mm),0.3244979345382086
+Thickness(mm),t_min (mm),0.3185737195656159
+TensileStrength,t_min (mm),0.31716251170871645
+Density,t_min (mm),-0.31313454997860685
+Extension,t_min (mm),-0.3095501559375726
+TensileStrength,t_max (mm),0.3086675170643219
+TensileStrength,max deg R,-0.3001889716348407
+Extension,center deflection max(mm),0.2980278143916024
+SurfaceRoughness(SMD),(t_max - t_min) percentage for Thickness,-0.2956445624315007
+Density,mean deg L,0.27567161247552724
+Weight(g/sqm),max deg R,-0.2719614451737717
+SurfaceRoughness(SMD),t_min (mm),0.2718363936733053
+Density,center deflection max(mm),0.2686287683051639
+TensileStrength,t_max percentage for Thickness,0.26792259756796977
+SurfaceRoughness(SMD),mean deg L,-0.26113865595324287
+Density,min deg L,0.2481312016057089
+Extension,min deg R,0.24573577170013156
+Weight(g/sqm),t_max percentage for Thickness,0.23679191200783858
+BendingRigidity,t_min percentage for Thickness,0.23161169137062348
+Weight(g/sqm),max deg L,0.22438059976269392
+SurfaceRoughness(SMD),max deg R,-0.22279943670132923
+Density,t_max (mm),-0.22159165474316508
+SurfaceRoughness(SMD),mean deg R,-0.2174889896722398
+SurfaceRoughness(SMD),max deg L,-0.2170178187189257
+BendingRigidity,(t_max - t_min) percentage for Thickness,0.21086039169905474
+Thickness(mm),max deg R,-0.20944674363446097
+SurfaceRoughness(SMD),center deflection max(mm),-0.2060915163819963
+Density,t_min percentage for Thickness,-0.2012381654347891
+Density,center deflection mean(mm),0.2012025736564623
+Extension,center deflection mean(mm),0.1936644384031838
+Extension,min deg L,0.18904589088144771
+SurfaceRoughness(SMD),min deg R,-0.18227982035470688
+SurfaceRoughness(SMD),t_min percentage for Thickness,-0.1798173784005949
+Density,center deflection min(mm),0.17100809742073297
+SurfaceRoughness(SMD),t_max percentage for Thickness,-0.16749707458837057
+Extension,max deg L,0.16667775913706856
+SurfaceRoughness(SMD),center deflection mean(mm),-0.14020181037636828
+Extension,center deflection min(mm),0.13839407364717773
+SurfaceRoughness(SMD),t_max (mm),-0.13773235914140056
+Density,max deg L,-0.13639287348723522
+TensileStrength,(t_max - t_min) percentage for Thickness,0.13174758237732961
+Density,(t_max - t_min) percentage for Thickness,0.12059852762866824
+TensileStrength,max deg L,0.1145748756960537
+TensileStrength,t_min percentage for Thickness,-0.10842439389853713
+SurfaceRoughness(SMD),center deflection min(mm),-0.1017894973181628
+SurfaceRoughness(SMD),min deg L,-0.08998980134832085
+Extension,t_max (mm),0.08547624680606439
+BendingRigidity,t_max percentage for Thickness,0.01436393543831352
+Thickness(mm),t_max percentage for Thickness,-0.004372107525162932
+Extension,t_max percentage for Thickness,-0.0029474585042355873

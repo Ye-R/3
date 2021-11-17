@@ -1,0 +1,22 @@
+X factor 1,X factor 2,PearsonCoeff
+Thickness(mm),Weight(g/sqm),0.911197083229206
+Weight(g/sqm),BendingRigidity,0.6621362699935165
+Thickness(mm),BendingRigidity,0.6485073918360643
+SurfaceRoughness(SMD),Extension,-0.5799314366427241
+TensileStrength,BendingRigidity,0.5285617586941023
+SurfaceRoughness(SMD),Density,-0.4740384285586686
+Thickness(mm),Density,-0.4067433370390141
+BendingRigidity,Density,-0.3751718090563072
+Weight(g/sqm),TensileStrength,0.3719491352593638
+Weight(g/sqm),Density,-0.295556428471498
+Extension,Density,0.2935109180821697
+Thickness(mm),TensileStrength,0.2397614489449
+TensileStrength,Extension,-0.22952400367408374
+Extension,BendingRigidity,-0.228962887835514
+Weight(g/sqm),SurfaceRoughness(SMD),-0.17028688928238297
+Thickness(mm),Extension,0.1314523807873863
+Thickness(mm),SurfaceRoughness(SMD),-0.11287776079781207
+Weight(g/sqm),Extension,0.0780378131725243
+TensileStrength,Density,-0.05798724756330397
+SurfaceRoughness(SMD),BendingRigidity,-0.042489225628818295
+SurfaceRoughness(SMD),TensileStrength,-0.041019921691716164
